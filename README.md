@@ -1,5 +1,13 @@
 ## Hi there 👋
+Hi 👋 My name is Waliat Adebayo-Bada
+====================================
 
+Data Analyst
+------------
+
+*   🌍  I'm based in London
+*   ✉️  You can contact me at [waliatade@outlook.com](mailto:waliatade@outlook.com)
+*   🤝  I'm open to collaborating on data analysis projects
 <!--
 **Waliat-Bada/Waliat-Bada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
